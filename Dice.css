@@ -1,0 +1,23 @@
+body{
+	background-color: #2A6363;
+}
+.container{
+	width:50%;
+	margin: 20px auto ;	
+	border: 5px solid black;
+	padding: 10px;	
+	/*space between the two images*/	
+	background-color: #429999;
+	text-align: center;
+	font-family: 'Turret Road', cursive;
+
+}
+
+.flex-box{
+
+	display:flex;	
+	padding: 10px;	
+	/*to center and add space between the pics*/
+	justify-content: space-around;
+	
+}
